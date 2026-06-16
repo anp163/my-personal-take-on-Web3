@@ -4,10 +4,11 @@ This is just a personal, back-of-the-napkin memo of how I interpret Web3.
 As a humanities major, I don't really know the system details or complex tech, and I don't expect my interpretation to be 100% accurate. It's purely my intuitive take on the general direction and nuance.
 Seriously, engineering and programming are complete gibberish to a total humanities person like me 😨
 
-I have so much more to write, so I'll be updating this regularly!
-Stay tuned for more on:
- > ​The communication gap (and the "bugs"!) between humanities and STEM majors.
- > ​My own personal "Specification Document" (lol).
+I have so much more to write, so I'll be updating this regularly! Stay tuned for more on:
+
+* The communication gap (and the "bugs"!) between humanities and STEM majors.
+* My own personal "Specification Document" (lol).
+
 I'll keep adding a roadmap of what's coming next as I think of it!
 
 ---
