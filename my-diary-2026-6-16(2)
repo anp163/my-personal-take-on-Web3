@@ -1,0 +1,74 @@
+memo
+2026.6.16 Tue.
+
+Object-Oriented (OOP): 
+All-in-one skincare, color-correcting UV primers, BB creams, Pokémon cards, and Yu-Gi-Oh! cards.
+
+Hash functions, public keys, and private keys
+> They're basically the "Mejirushi-Seals"(目印留) from Yu Yu Hakusho.
+
+Public Key
+> Think of it like a box with an open lid.
+  Anyone can toss something inside, but once it snaps shut, only the sender can open it. 
+
+Private Key
+> That's literally YOU!
+  It’s like being registered for iris or vein scans—if you end up with a glass eye,
+  lose the registered body part, or well... die, the auth fails.
+  So don't lose it, and for the love of god, don't die!
+
+Hash Function
+> The Mejirushi-Seal (sticker) tells you the exact state of the person who slapped it on just by looking at it.
+  You could say it’s pretty damn close to compressing a person (and their current state) into data.
+
+Public Key (The Mejirushi-Seal Version)
+> In the original manga, everyone writes their name on the Mejirushi-Seal (sticker) before putting it on,
+  so you know exactly whose Mejirushi-Seal (sticker) is whose.
+  That gives off major public key vibes.
+
+Private Key (The Mejirushi-Seal Version)
+> A Mejirushi-Seal (sticker) can only be peeled off by the person who put it there.
+  It reacts to their "Kimon" (spiritual fingerprint), which is completely unique to every individual.
+  The fact that an active Mejirushi-Seal (sticker) only responds to that specific Kimon is pure private key energy.
+
+(Note: In the manga, the Mejirushi-Seal naturally falls off if the person dies, but I figured that part doesn't really fit the Web3 analogy).*
+
+---
+
+✍️
+Yu Yu Hakusho Vol.13, P.147. 
+This is the volume where the Dark Tournament wraps up.
+No matter how many times I re-read it,
+it’s just pure hype and hits right in the feels. Absolutely goated volume...
+
+---
+
+オブジェクト指向：
+オールインワンスキンケア、UV・カラーコントロール・下地のプライマー・BBクリーム、ポケカ、遊戯王カード
+
+ハッシュ関数、公開鍵、秘密鍵
+→幽遊白書の目印留
+
+公開鍵
+→フタの開いてる箱。誰でも入れられるけど閉めたら箱の送り主しか開けられない仕様
+
+秘密鍵
+→自分！虹彩認証や静脈認証に登録してて義眼になったり静脈登録してるパーツが欠損したり死んだら認証が通らなくなる。
+だから無くすな！死ぬな！
+
+ハッシュ関数
+→目印留は貼った本人の状態がシールを見るだけで分かる。
+本人(の状態)を圧縮してデータ化したものと近いと言える。
+
+公開鍵
+→原作では名前を書いて貼ってるのでどれが誰のシールか分かるから公開鍵っぽいかも
+
+秘密鍵
+→目印留は貼った本人にしか剥がせない。一人一人全く違う気紋というものに反応して剥がれる。
+使用中のシールは気紋にしか反応しないところが秘密鍵っぽいかも。
+
+※目印留そのものは本人が死んだら自然に剥がれるがそれはWeb3の説明には合わないと判断
+
+✍️
+幽遊白書13巻 P147
+暗黒闘技大会が終わる巻なので何回読んでも熱いしエモくて最高の巻だ…
