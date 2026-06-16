@@ -4,8 +4,10 @@ My Metaverse Matrix:
  * OZ (Summer Wars)
  * Planet (Good Night World)
  * Sword Art Online (SAO)
+
  * The Metaverse Big Tech is actually aiming for: OZ
- * The Open-Source Protocol: The Seed (Makes sense 'cause in the anime, it’s used to build and connect all kinds of different games.)
+ * The Open-Source Protocol:
+   The Seed (Makes sense 'cause in the anime, it’s used to build and connect all kinds of different games.)
 
 ---
 
@@ -13,22 +15,35 @@ Why Blockchain is a Must-Have (My brain dump on Good Night World)
 
 So, in Good Night World, "Planet" uses this almost-full-dive VR headset.
 There’s this scene where a bug in the game turns into a straight-up virus that screws with your body in the real world.
-And honestly? It kinda makes sense. If our brains and bodies run on weak electric signals anyway, the idea of a digital virus infecting a real human isn’t totally crazy. It feels... plausible.
+And honestly? It kinda makes sense.
+If our brains and bodies run on weak electric signals anyway,
+the idea of a digital virus infecting a real human isn’t totally crazy.
+It feels... plausible.
 
 So I was thinking: wouldn't using blockchain as a buffer completely stop this from happening?
 
-Going straight from Real Human (Brain) to The Game Service leaves you way too exposed. But if we do Real Human (Brain) to Blockchain (P2P) to The Game Service, blockchain becomes this ultimate shield.
+Going straight from Real Human (Brain) to The Game Service leaves you way too exposed.
+But if we do Real Human (Brain) to Blockchain (P2P) to The Game Service, blockchain becomes this ultimate shield.
 Anything coming in—even the nasty stuff—gets thrown into a sandbox first to double-check it before it ever touches your brain (or as a liberal arts major like me would say: it adds a cushion!).
-If it turns out to be a virus or something malicious (let's call it a poison apple), the system just deletes it on the spot. Then, a Most Wanted poster for that specific poison apple gets instantly blasted to everyone in the network, putting it on a permanent blacklist. Boom. Problem solved, right?
+If it turns out to be a virus or something malicious (let's call it a poison apple),
+the system just deletes it on the spot.
+Then, a Most Wanted poster for that specific poison apple gets instantly blasted to everyone in the network,
+putting it on a permanent blacklist. Boom. Problem solved, right?
 
-(Quick side note on "almost-full-dive": Player killing exists in the game, and while it doesn't actually hurt when you get your head chopped off, players say it feels super gross and weird. That's why I'm guessing it's "almost" full dive.)
+(Quick side note on "almost-full-dive": Player killing exists in the game, and while it doesn't actually hurt when you get your head chopped off,
+players say it feels super gross and weird. That's why I'm guessing it's "almost" full dive.)
 
 The Nitty-Gritty (My Mental Model)
  * The Blockchain is basically a Bouncer: It memorizes every single criminal on that blacklist, and if it sees a match, it’s like "Nope, you're not getting in." Absolute zero tolerance.
- * But there’s a catch: If a brand-new poison apple shows up—like, say, a poison apple with a bite taken out of it to look different—the bouncer might let it slide. That’s why the bouncer needs a Scientist (Security AI) working right next to him to analyze stuff. The scientist checks the chemical makeup, realizes, "Hey, this thing has the exact same poison code as the last one! It’s just a cousin of the suspect. Register it, block it, and blast the new Wanted poster ASAP!"
+ * But there’s a catch: If a brand-new poison apple shows up—like, say, a poison apple with a bite taken out of it to look different—the bouncer might let it slide.
+   That’s why the bouncer needs a Scientist (Security AI) working right next to him to analyze stuff.
+   The scientist checks the chemical makeup, realizes, "Hey, this thing has the exact same poison code as the last one! It’s just a cousin of the suspect.
+   Register it, block it, and blast the new Wanted poster ASAP!"
 
-Look, I’m a total humanities nerd, so this is 100% just my vibe and intuition. I’m not saying I’m objectively right, and I’m sure some tech parts are off. But if you puree all that tech jargon so it’s super easy to digest—like baby food that literally anyone from infants to grandparents can swallow without choking—this is where my brain lands 😇
-(Full disclosure: I’ve never actually watched SAO, I just did a quick Google dive to fake my way through it, so sorry if I butchered the lore! 🙏)
+Look, I’m a total humanities nerd, so this is 100% just my vibe and intuition.
+I’m not saying I’m objectively right, and I’m sure some tech parts are off.
+But if you puree all that tech jargon so it’s super easy to digest—like baby food that literally anyone from infants to grandparents can swallow without choking—this is where my brain lands 😇
+Full disclosure: I’ve never actually watched SAO, I just did a quick Google dive to fake my way through it, so sorry if I butchered the lore🙏
 
 
 ---
@@ -42,19 +57,23 @@ OZ(サマーウォーズ)
 世界の企業たちが目指しているメタバース：OZ
 オープンソースのプロトコル：The Seed(これ使って作品内で色んなゲームが作られてて繋がってるから)
 
-◆グッドナイトワールドで考えてみたブロックチェーンの重要性
-グッドナイトワールドのプラネット：ヘッドギアでのほぼフルダイブ
-プラネットのバグが現実の肉体に干渉するウイルスと化したような表現がある。
-人間の脳や体は微弱な電気信号で動いているなら確かにネットのウイルスが人に感染するというのも分からなくもないというか、あり得なくもないかもしれない。
-これを防ぐにはブロックチェーンを媒介していれば起きないのでは？となんとなく思った！
-生身の人間(脳)↔サービスだと無防備すぎるけど、生身の人間(脳)↔ブロックチェーン(P2P)↔サービスなら、ブロックチェーンが防波堤になって悪意があるものも含めて受け取ったものは人間に届く前にサンドボックスで確認(文系のニュアンスならワンクッション！)、中身がウイルスなどの悪意のあるもの(毒りんごとする)であればデリートし即座に毒りんごの指名手配書が全てに配られブロックリスト化される！んじゃないかなぁ…。
+>グッドナイトワールドで考えてみたブロックチェーンの重要性
+ グッドナイトワールドのプラネット：ヘッドギアでのほぼフルダイブ
+ プラネットのバグが現実の肉体に干渉するウイルスと化したような表現がある。
+ 人間の脳や体は微弱な電気信号で動いているなら確かにネットのウイルスが人に感染するというのも分からなくもないというか、あり得なくもないかもしれない。
+ これを防ぐにはブロックチェーンを媒介していれば起きないのでは？となんとなく思った！
+ 生身の人間(脳)↔サービスだと無防備すぎるけど、生身の人間(脳)↔ブロックチェーン(P2P)↔サービスなら
+ ブロックチェーンが防波堤になって悪意があるものも含めて受け取ったものは人間に届く前にサンドボックスで確認(文系のニュアンスならワンクッション！)
+ 中身がウイルスなどの悪意のあるもの(毒りんごとする)であればデリートし即座に毒りんごの指名手配書が全てに配られブロックリスト化される！んじゃないかなぁ…。
 
 ※ほぼフルダイブ：PKがあるが痛いということはなく、なんか妙に気持ち悪いということだからほぼかな？と思った。
 
 ※ブロックチェーンは覚えた指名手配犯を覚えていて一致するやつは絶対通さない門番的な存在のイメージ
-※ただ見たことない新種の毒りんご(一口かじった見た目の毒りんご)は通してしまうので、門番と一緒に分析する科学者(セキュリティ)が必要。科学者は成分を調べて前に見た毒りんごと同じ成分を含有してるやつは手配犯の親戚だから登録！通すな！指名手配書配っとけ！と言ってくれる
+※ただ見たことない新種の毒りんご(一口かじった見た目の毒りんご)は通してしまうので、門番と一緒に分析する科学者(セキュリティ)が必要。
+  科学者は成分を調べて前に見た毒りんごと同じ成分を含有してるやつは手配犯の親戚だから登録！通すな！指名手配書配っとけ！と言ってくれる。
 
-文系なので全部ニュアンスだ。正解だとも思ってないし間違っているところもあると思うが、文系に分かるように離乳食くらい噛み砕いたらこの程度の認識レベルである😇
+文系なので全部ニュアンスだ。正解だとも思ってないし間違っているところもあると思うけど
+文系に分かるように離乳食くらい噛み砕いたらこの程度の認識レベルである😇
 SAO見たことないから調べてかじった内容だから間違ってたらごめんね🙏
 
-こ
+
