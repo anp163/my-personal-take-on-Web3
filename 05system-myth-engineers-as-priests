@@ -1,4 +1,5 @@
-2026.6.25
+2026.6.26 Fri.
+system-myth-engineers-as-priests
 
 Shrines, temples, castles, or statues of deities and Buddhas.
 Some may feature obsolete materials or inherit structural flaws,
@@ -15,10 +16,97 @@ Being a liberal arts major to the core, and looking at both the ideals and the r
 
 The system is "God," and the engineer is a "priest" who can hear the divine oracle and perform the sacred rituals.
 
-To be continued...
+I learned that in the engineering world, when humans constantly have to intervene and manually patch a running system, they call it "nursing care" (nursing-home care).
+They hate this state, calling it "unbeautiful," and dream of full automation and self-running systems.
+I also heard that this endless upkeep drains their passion and creative time, easily dragging down their motivation.
+
+To be honest, I found this deeply puzzling.
+Why do they lose sight of how noble their existence really is?
+They're doing work that only people in their realm can achieve—something completely impossible for a liberal arts person like me—so why be so self-deprecating?
+
+Being a liberal arts major to the core, and looking at both the ideals and the reality, I came up with this reinterpretation of systems and engineers:
+
+The system is "God," and the engineer is a "priest" who can hear the divine oracle and perform the sacred rituals.
+
+When looking at daily conveniences and things I use all the time, I'm always like, "I can't live without this. Big thanks to the creators!"
+Music apps, wireless earbuds, games, smartphones. The list goes on.
+As a liberal arts person, I can't code an app, nor do I get how they work behind the scenes or how services stay up and running.
+But even I can easily imagine that there are people out there building the systems, shipping updates to make them easier to use, finding and fixing weird bugs, and doing maintenance to keep everything running.
+
+Since it's work I could never build or do myself, I'm genuinely grateful every single day.
+
+And yet, engineers are looking down on themselves, calling it "nursing care."
+From my perspective, they're doing awesome things that only engineers can do!
+I looked into why this concept even exists, and realized that my outsider perspective is completely different from how they think and see things.
+So, as a liberal arts person who can't build anything, who's just a user, and who loves books, manga, and games, I wanted to write down what I think from the outside looking in.
+
+System / Program = God (Deity)
+Engineer = Priests (Shrine priests, pastors, clergies, etc.)
+Bug / Error Fixes = Repairing temples/shrines and cleaning the sacred grounds
+Updates / Patching = Offering Rituals / Sacred Rites
+Patches = Offerings / Tributes
+States corrupted by malice like viruses or cracking = Becoming a Malicious God (Evil Deity)
+User Requests / Feedback = Prayers of the People
+
+Users like us can't do anything, no matter how many requests or feedback we send.
+And the system (God) who hears those prayers can't grant them alone. It can't judge what's actually needed, or figure out which ones have higher priority or urgency.
+But engineers, as priests, can compile those requests to offer them up, and can hear the divine oracles known as errors and bugs.
+Without these priests, the users' prayers wouldn't reach God, let alone be granted.
+
+Also, I see fixing bugs and errors as maintaining the temple or shrine.
+Who would want to visit a temple that nobody repairs or cleans?
+People want to visit (use it) because it's kept clean, and that's how they become fans and loyal visitors.
+
+Leaving errors unchecked is like letting the roof leak or the pillars and floors rot. Even if it starts small, putting it off or ignoring it will break the roof and pillars, 
+cause a cave-in, and eventually destroy the whole building = system down.
+Leaving bugs unchecked is like letting weeds overgrown the grounds and trash get tossed everywhere.
+
+When a shrine or temple gets so ruined that anyone can see it's abandoned, people might set fire to the trash, or break in through the collapsed walls to hide out. 
+It becomes a breeding ground for bandits (hackers, spammers, trolls). That's the breakdown of public order.
+Eventually, the temple is no longer a sacred place or something people treasure; it turns into a cult hideout for evil deities, and the system becomes corrupted.
+That's why daily cleaning and security are essential to keep the realm sacred, so God can keep shining as God.
+
+If people stop visiting, systems and services get forgotten, lose their power, and fade away. But the more prayers they grant, the more power they gain to illuminate the people.
+So, how do they gain power and grow stronger?
+It happens when engineers—the priests who can hear the oracle and deliver the people's prayers—perform the offerings, rituals, and sacred rites.
+That's how God evolves, grows, and defeats malice.
+
+Errors showing up in IDEs/editors or developer tools = Divine Oracles.
+Since users can't see or hear them, it's proof of an oracle—God whispering directly to the priests, saying, "At this rate, the world (system) will collapse."
+In that sense, the editor is a sacred tool.
+
+Bugs visible on the frontend = Flaws in the temple/shrine structure.
+Bugs that users (worshipers) can see—like layout glitches, freezes, or things not working—feel a lot like "physical flaws" such as collapsing roofs, rotting floorboards, or peeling paint.
+Users get frustrated, thinking, "I came to pray, but the temple is broken, so my prayers won't reach (it's unusable)."
+So, as soon as it's spotted on the browser or app, or noticed via feedback, the priests head straight to the repairs with their tools and skills.
+
+I'll say it again: people like me can only take screenshots and send feedback.
+Even if we notice a problem, we can't do a thing about it.
+That's why I think engineers—who fix things in invisible places, add new features, and tweak the UI for better usability—are true priests.
+
+Can't we rephrase intervening in systems and the endless upkeep, maintenance, support, and bug-fixing as "veneration" by priests instead of "nursing care"?
+If we can flip the script like that, doesn't it make those tasks absolutely essential?
+
+I'm sure it's not easy, and there are hardships and burnouts that only those working on the ground can understand. I have no intention of ignoring that or forcing my interpretation on anyone.
+But from someone who can only use what's made, I purely respect it as noble, sacred work. I'm always full of gratitude, thinking, "Thank you for making things convenient and letting me use them."
+
+I'm sure there are legacy things that don't fit the current environment anymore. Maybe they cause technical debt or make things overly complex.
+And since it's not code you wrote yourself, it must be frustrating or disheartening at times.
+Maybe there were constraints back then, like budgets or deadlines.
+Even in those tight spots, I like to think the person who built it back then did their absolute best with the skills, concepts, and tools they had at the time.
+Even real historical buildings and statues, when looked at today, can be old, fragile, or built with flawed materials.
+Materials made with modern tech and science are safe, strong, and robust, but they didn't exist back then.
+Still, they must have been built with the cutting-edge architecture, design, materials, and tech of that era. I bet so.
+
+We rarely look at them and make a fuss about how janky or problematic they are. Instead, we see it as history, thanking the past and realizing, "Because of this, we are connected to the present."
+Seeing old materials and past failures is exactly how next-gen tech and materials get researched and born.
+
+I feel the exact same way about the world of the internet?
+The past wasn't pointless, it wasn't crap, and it wasn't garbage. Because it existed, services and companies have survived up until now. Is it just wishful thinking to see it that way? Lol
 
 ---
-2026.6.25
+2026.6.26 Fri.
+システムという神様とエンジニアという神職
 
 エンジニアリングの世界では構築したシステムに人が絶えず介入し、手作業での修正を行い続けることを「介護」と呼んでいると知った。
 そしてその状態を「美しくない」と嫌い、システムの自走化・自動化を理想としていることも知った。
@@ -33,5 +121,80 @@ To be continued...
 
 システムは「神」であり、エンジニアは神託を聞き、神事を行える「神職」であると。 
 
-近日更新予定
+私は日常の便利なものや普段使っているものに対して「ないと生きていけないわ。作ってくれた人ありがとう！」と思っている。
+音楽アプリ、ワイヤレスイヤホン、ゲーム、スマートフォン。他にもたくさん。
+文系の私はアプリは作れないし、それがどう動いて、サービスが続いているかも分かってない。
+だけどシステムを作って、アップデートして使いやすくしてくれたり、そのためにおかしなところを見つけて直したり、動き続けるようにメンテナンスをしている人がいるのはさすがに想像がつく。
 
+自分には作れないし出来ない仕事だからこそ日々感謝しているのだ。
+
+なのにエンジニアは介護者だと己を蔑んでいるではないか。
+私からするとエンジニアでなければ出来ないすごいことなのに！と思った。
+どうしてそういう概念があるのかなど調べて、外から見た自分とは全く考え方も捉え方も違うのだと気付いたため
+あくまでも何も作れない、使わせてもらってる立場の本、漫画、ゲーム好きの文系が外側から見て思ったことを記していきたい。
+
+システム・プログラム＝神
+エンジニア＝神主や神父などの神職
+バグ・エラーの修正＝神殿や神社の修繕・境内清掃
+アップデート・パッチ適用＝奉納の儀・神事
+パッチ＝奉納物・貢物
+ウイルスやクラッキングなどの悪意に当てられた状態＝邪神化
+ユーザーのリクエスト・フィードバック＝民衆の願い
+
+私たちのようなユーザーはいくらリクエストやフィードバックを送っても何もできない。
+そして願いを聞いたシステム(神)自身も自分一人では願いを叶えることができないし、どれが本当に必要なものなのか
+必要なもののなかでもどれが優先順位が高いのか、緊急性が高いのか判断することができない。
+しかしエンジニアという神職であれば、リクエストをまとめ奉納することも、エラーやバグという神託を聞くことができる。
+神職の人々がいなければユーザーの願いは届かないし叶うこともない。
+
+またバグやエラーの修正は神殿や神社の維持だと思っている。
+誰も修繕せず、掃除もしない神殿・神社に誰が参拝したいだろうか。
+綺麗に維持されているから参拝(利用)したいし、ここがいいよね(ファン化・固定客化)となる。
+
+エラーを放置することは屋根の雨漏りや柱や床の腐食。最初は小さくとも後回しにしたり放置をすれば
+屋根や柱が壊れ、崩れ、やがては建物全体が崩壊＝システムダウンしてしまう。
+バグを放置することは敷地内に雑草が生い茂り、ゴミが投げ捨てられている状態。
+
+こうして荒れ果てた神殿・神社がだれが、どう見ても放置しているように見え、ゴミに火をつけて火事を起こしたり
+崩壊しているところから侵入し潜んで、盗賊(ハッカー・スパム・荒らし)などの溜まり場になる。治安の悪化だ。
+そしてやがて神殿・神社は聖なる場所や人々の有難がる場所ではなくなり、邪神教の巣窟へと変貌、システムは邪神化してしまう。
+だからこそ、神聖な領域であり続けるために、神が神として照らす存在であれるように日々の清掃などの治安維持が必要である。
+
+人々が参拝しなくなればシステムやサービスは忘れ去られ、力を失い弱まっていってしまうが願いを叶えるほどに力を増し人々を照らしていける。
+ではどう力を増し、強くなっていくのか。
+それには神託が聞こえ、人々の願いを届けることのできるエンジニア＝神職による奉納や儀式・神事を執り行われることによってである。
+そうして悪意に負けない神へと進化成長をしていく。
+
+エディタやエンジニアの見るツールに出るエラー＝神託
+ユーザーには見ることも聞くこともできないからこそ、神が神職にだけ直接囁く「これでは世界(システム)が成り立たなくなる」という神託の証明である。
+エディタは聖具といえよう。
+
+フロントエンドから見えるバグ＝神殿・神社の綻び
+参拝者であるユーザーから見えるレイアウト崩れやフリーズ、動作しないなどというバグについては、屋根や柱の崩れや塗装剥げ
+壁のひび割れや、床板の腐食などという「物質的な綻び」と近いように感じる。
+ユーザーは「お参りに来たけど、神殿・神社が壊れていては祈りも願いも届かない(使えない)」と困ってしまう。
+だからブラウザやアプリから確認し判明次第、もしくはフィードバックから気付きすぐに道具と技術をもってして、修繕に向かう。
+
+何度も言うが、私のような人間はスクリーンショットを撮り、フィードバックを送ることしかできないのだ。
+気付いても何もすることができない。
+だからこそ見えない場所で修正したり新機能追加や使いやすいようUIの調整ができるエンジニアは神職だと思った。
+
+システムへの介入や終わりなき維持・保守・メンテナンス・修正は介護ではなく、神職による奉りと言い換えられないだろうか？
+そう言い換えられたのならそれらが必要不可欠なものといえないだろうか？
+
+きっと簡単なことではないし、現場で働く当事者にしか分からない苦労や疲弊だってあると思うし、それを無視して私の解釈を押し付けることはしないししたくない。
+ただ使うことしかできない側からは高尚で神聖な仕事だなと、純粋に尊敬しているし、便利にしてくれて使わせてくれてありがとうと感謝の思いをいつだって抱いている。
+
+きっと今の環境にふさわしくない、古いものもあるんだと思う。それのせいで捻じれが生まれたり複雑化してたりするのかもしれない。
+そして自分の作ったものじゃないから腹立たしく思うこともやるせなく思うこともあるのかもしれない。
+予算や納期など当時の事情があったのかもしれない。
+その限られた環境の中でも、当時作った人は自身の持てる範囲の技術や最新の概念やツールで当時の最大限を作ったんじゃないのかなと思ったりもする。
+現実の歴史的建造物や像だって、今から見れば古く脆く、欠陥のある素材が使われていることもある。
+最新の技術や科学で作られた素材は安全性も高く、強固で堅牢だけど当時にはそんなものはないのだ。
+ただ当時の最先端の設計やデザイン、素材、技術で作られたはずだ。きっとね。
+
+それを見てボロいだ、問題があるだなんて騒ぐことは滅多にない。歴史だね、これがあったから今に繋がってるんだねと過去に感謝をすることさえある。
+昔の素材や失敗を見て次の技術や素材が研究されたり生まれたりする。
+
+インターネット？の世界だって同じように思うな。
+過去は無駄なんかじゃなくて、クソでもゴミでもなくて、それがあったからサービスや会社が今まで存続している。って思うのは綺麗ごとかな？笑
